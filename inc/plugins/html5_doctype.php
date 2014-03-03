@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Script Name
+ * HTML5 Doctype Plugin
  * Copyright 2014 Mark Topper, All Rights Reserved
  * Description: This plugin simple adds HTML5 support for the core MyBB system without changing in the core files.
  * Version: 0.1
