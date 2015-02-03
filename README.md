@@ -8,14 +8,22 @@ What it does?
 ============================
 
 What it does is pretty simple to change your doctype from:    
-`<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">`   
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+```   
 to:    
-`<!DOCTYPE html>`
+```
+<!DOCTYPE html>
+```
 
 And change the HTML tag from:    
-`<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">`   
+```
+<html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+```   
 to:   
-`<html>`
+```
+<html>
+```
 
 
 Can't I do that myself?
