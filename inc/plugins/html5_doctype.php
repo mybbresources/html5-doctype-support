@@ -2,9 +2,9 @@
 
 /**
  * HTML5 Doctype Plugin
- * Copyright 2014 Mark Topper, All Rights Reserved
+ * Copyright 2016 Mark Topper, All Rights Reserved
  * Description: This plugin simple adds HTML5 support for the core MyBB system without changing in the core files.
- * Version: 0.1
+ * Version: 1.0
  *
  * Author: Mark Topper
  * Website: http://webman.io
@@ -28,8 +28,8 @@ function html5_doctype_info() {
 	        "website" => "http://www.webman.io",
 	        "author" => "Mark Topper",
 	        "authorsite" => "http://www.webman.io",
-	        "version" => "0.1",
-	        "compatibility" => "16*"
+	        "version" => "1.0",
+	        "compatibility" => "1*"
 	    );
 }
 
@@ -47,5 +47,3 @@ function html5_doctype_tag(&$content) {
 	$content = str_replace('<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">','<!DOCTYPE html>',$content);
 	return $content;
 }
-
-?>
