@@ -33,3 +33,5 @@ Actually you can, but not in the templates, cause this is some of the core funct
 This plugin does it using hooks, which doesn't change any of the core codes for MyBB.
 
 If you wish to do it yourself you can follow [this guide](http://community.mybb.com/post-1058695.html).
+
+[![advertisement](https://ads.servead.net/i/30bc5d70-d4b2-4620-bad9-fef27a7a2bb1.svg)](https://ads.servead.net/c/30bc5d70-d4b2-4620-bad9-fef27a7a2bb1)
